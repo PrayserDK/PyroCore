@@ -1,7 +1,7 @@
-name: FrozenCore
+name: PyroCore
 version: '${version}'
-main: dk.prayser.frozencore.FrozenCore
-description: Core plugin for Frozen Development's plugins
+main: dk.prayser.pyrocore.Main
+description: Core plugin for Pyro Development's plugins
 author: PrayserDK
-softdepend:
+depend:
   - Vault

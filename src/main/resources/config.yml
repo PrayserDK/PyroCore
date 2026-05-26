@@ -1,6 +1,7 @@
 #FrozenCore
 #Lavet af PrayserDK
 
+#Ændringer tager effekt efter genstart!
 listeners_enabled:
   iron_door: true
   block_hit: true
